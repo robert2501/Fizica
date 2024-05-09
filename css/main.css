@@ -450,6 +450,10 @@ a {
   border: 3px solid black;
   text-align: center;
 }
+.tab img {
+  height: 100%;
+  width: 100%;
+}
 .tab h1,
 .tab h2,
 .tab h3 {
