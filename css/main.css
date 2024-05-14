@@ -465,6 +465,7 @@ a {
   font-size: 1.5 rem;
   color: #000000;
   font-weight: 700;
+  marigin-top: 5px;
 }
 .video-med {
   position: absolute;
