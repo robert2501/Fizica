@@ -345,7 +345,7 @@ body {
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 .img3 {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 .img3-8 {
   margin-bottom: 4rem;
@@ -353,6 +353,10 @@ body {
 }
 .img4 {
   margin-top: 2rem;
+}
+.img1 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 .box {
   margin-top: 5rem;
@@ -465,7 +469,6 @@ a {
   font-size: 1.5 rem;
   color: #000000;
   font-weight: 700;
-  marigin-top: 5px;
 }
 .video-med {
   position: absolute;
